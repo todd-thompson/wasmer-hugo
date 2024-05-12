@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: todd-thompson-wasmer-hugo
+package: todd-thompson/wasmer-hugo
